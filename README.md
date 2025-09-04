@@ -1,4 +1,4 @@
-This study, based on the skills acquired during the Data Analysis and Statistical Models course of the Second Level MAster degree in Artificial 
+This study, based on the skills acquired during the Data Analysis and Statistical Models course of the Second Level Master degree in Artificial 
 Intelligence & Data Science (Unical), analyzes the coffee dataset from the R package *pgmm* with the aim of identifying groups of similar observations. 
 
 Following a preliminary analysis of the variables and the clustering tendency, partitioning clustering, hierarchical clustering, 
